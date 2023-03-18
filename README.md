@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @KanikaAdik
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Machine Learning techniques
-- 💞️ I’m looking to collaborate on data analysis of environment related studies
-- 📫 How to reach me https://www.linkedin.com/in/kanika-adik/
-
-* Following are some of my implementations and learnings -- 
+👋 Hi, I’m @KanikaAdik
+👀 I’m interested in data analytics
+🌱 I’m currently learning Machine Learning techniques
+💞️ I’m looking to collaborate on data analysis of environment related studies
+📫 How to reach me https://www.linkedin.com/in/kanika-adik/
 
 
+:link: Following are some of my implementations and learnings -- 
 
 :part_alternation_mark: So excited to share my first Streamlit app, i need to explore and learn more so excited to explore --- 
 https://kanikaadik-my-first-streamlit-app-streamlit-app-lj6nnp.streamlit.app/
