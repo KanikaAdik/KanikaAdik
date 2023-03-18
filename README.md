@@ -1,8 +1,8 @@
-👋 Hi, I’m @KanikaAdik
-👀 I’m interested in data analytics
-🌱 I’m currently learning Machine Learning techniques
-💞️ I’m looking to collaborate on data analysis of environment related studies
-📫 How to reach me https://www.linkedin.com/in/kanika-adik/
+- 👋 Hi, I’m @KanikaAdik
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning Machine Learning techniques
+- 💞️ I’m looking to collaborate on data analysis of environment related studies
+- 📫 How to reach me https://www.linkedin.com/in/kanika-adik/
 
 
 :link: Following are some of my implementations and learnings -- 
