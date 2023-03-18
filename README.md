@@ -5,6 +5,13 @@
 - 📫 How to reach me https://www.linkedin.com/in/kanika-adik/
 
 
+Here is my latest Tableau Dashboard for a Suppply Demand Problem - 
+https://public.tableau.com/app/profile/kanika3619/viz/Book1_16699358354430/SalesbyCategoryandMarket
+https://public.tableau.com/app/profile/kanika3619/viz/RegionalSalesbyProductCategory/RetailerDashboard
+
+Tableau Dashboard for Meteorite Fall - 
+https://public.tableau.com/app/profile/kanika3619/viz/Assignment-Tableau_16693500503330/MeteoriteInsights
+
 <!---
 KanikaAdik/KanikaAdik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
