@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis of environment related studies
 - 📫 How to reach me https://www.linkedin.com/in/kanika-adik/
 
-
+Watch this space for regular updates
 :link: Following are some of my implementations and learnings -- 
 
 :part_alternation_mark: So excited to share my first Streamlit app, i need to explore --- 
