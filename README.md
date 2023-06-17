@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on data analysis of environment-related studies to solve real-world problems
 - 📫 How to reach me: kanikaadik07@gmail.com or https://www.linkedin.com/in/kanika-adik/
 
+Personal Projects : 
+1. Natural Language Processing (NLP) - Text mining or Information Extraction based on job description
+2. Optimal route assignment system to assign drivers to orders in an area using ML Optimization technique and TaipyAI - https://www.taipy.io/
+3. CaneVision - Computer vision application trained to identify objects in surroundings and AI integrated system to explain to the user
+   
+
+
 Watch this space for regular updates
 :link: Following are some of my implementations and learnings -- 
 
